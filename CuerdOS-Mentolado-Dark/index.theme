@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Mentolado-Dark
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=CuerdOS-Mentolado-Dark
+MetacityTheme=Cuerdos-Mentolado-Dark
+IconTheme=CuerdOS-Elementary
+ButtonLayout=menu:minimize,maximize,close
